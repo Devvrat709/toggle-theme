@@ -6,6 +6,18 @@
   height: 40vmin;
   pointer-events: none;
 }
+.toggle{
+  background-color: rgb(255, 110, 134);
+  color: white;
+  border: none;
+  padding: 6px;
+  width: 100px;
+  margin-left: 550px;
+}
+
+.pink-color{
+  color: rgb(255, 110, 134);
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
